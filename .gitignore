@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+
+# Windows
+Thumbs.db
+Desktop.ini
